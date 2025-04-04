@@ -1,0 +1,5 @@
+git2.txt
+git1.txt
+
+# this is a comment!
+# to remove all the .txt files use:  *.txt

@@ -140,6 +140,6 @@ git1.txt
 # this is a comment!
 # to remove all the .txt files use:  *.txt
 
-*.__MACOSX
+__MACOSX/
 git3.txt
 *.json

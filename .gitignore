@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -134,3 +135,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+=======
+git2.txt
+git1.txt
+
+# this is a comment!
+# to remove all the .txt files use:  *.txt
+>>>>>>> 993430fe680723686dcb85a629eaa6994891a737

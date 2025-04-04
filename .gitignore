@@ -142,3 +142,8 @@ git1.txt
 # this is a comment!
 # to remove all the .txt files use:  *.txt
 >>>>>>> 993430fe680723686dcb85a629eaa6994891a737
+
+__MACOSX
+git3.txt
+package-lock.json
+package.json
